@@ -1,2 +1,14 @@
-# Deepsecure-AI
-My project "Deepsecure AI" is a concept of detecting fake images or videos that is produced by the illegals . This is a demo model of which can detect the REAL or FAKE data  
+---
+title: DeepSecure-AI
+emoji: 🏆
+colorFrom: pink
+colorTo: purple
+sdk: gradio
+sdk_version: 4.21.0
+app_file: app.py
+pinned: false
+license: creativeml-openrail-m
+header: mini
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
